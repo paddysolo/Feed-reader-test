@@ -10,6 +10,6 @@ useing test-driven development ensures  future feature development doesn't break
 
 ## How to Run the Application
 
-Get the program code at https://paddysolo.github.io/feed-reader-test/
-click on the index.html file to run.
-or run code directly from https://paddysolo.github.io/feed-reader-test/
+Get the program code at https://github.com/paddysolo/feed-reader-test
+click on the index.html 
+or run the application directly from  https://paddysolo.github.io/feed-reader-test/
